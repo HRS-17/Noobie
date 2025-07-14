@@ -1,0 +1,13 @@
+GITHUB -> GIT copy -> Working folder
+
+create file -> add -> commit -> push
+
+git clone https://github.com/HRS-17/Noobie.git
+cd git/Noobie/
+git status 
+git add <file name.txt>
+git commit --m "<file name>.txt file added"
+git push origin main (main-- branch name)
+
+
+this is the edited .....

@@ -1,0 +1,5 @@
+Read value battery's individual cell voltages using ESP-32
+-- Pass these values to Xavier / RPI 
+-- using ROS2 - microros/somethere (ros2 communication protocol)
+Build a miniature circuit breaker like system 
+-- so that if someone makes short circuit the mcb trips off

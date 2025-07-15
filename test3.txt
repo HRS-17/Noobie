@@ -20,3 +20,6 @@ New folder
 --git remote add origin <repo link>
 --git branch
 --git push orign <branch name>
+
+Modify branch name 
+--git branch -M <new name>

@@ -11,3 +11,12 @@ git push origin main (main-- branch name)
 
 
 this is the edited .....
+
+New folder
+--git init(to create a .git file in the folder so that it acts as some bridge)
+--git add .( move all the modifications to staging area)
+--git commit -m "some msg"4
+--create repo in git hub
+--git remote add origin <repo link>
+--git branch
+--git push orign <branch name>
